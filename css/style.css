@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.head{
+    display: flex;
+    /* align-content: center; */
+    justify-content: center;
+    background-color: aliceblue;
+    color: cadetblue;
+}
+/* table */
+/* .table{
+    width: 40%;
+    margin: auto;
+} */
